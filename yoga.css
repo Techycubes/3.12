@@ -5,6 +5,7 @@ head {background-color: #9bc1c2}
 h1 {  line-height: 200%;}
 h2 {}
 nav {  text-align: center; font-size: bold; }
-footer{}
+footer{background-color: #9bc1c2;
+font-size: small; text-align: center;font-style: italic;}
 .studio {font-style: italic;}
 nav a {text-decoration: none;}
